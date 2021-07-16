@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @wmper
-
-- .Net后端资深搬运工
-- vue前端客串开发
-- Java、springboot尝鲜中
-- 📫 H ow to reach me ...
+- ✨ .Net后端资深搬运工
+- ✨ 前端客串开发
+- ✨ Java、springboot尝鲜中
 
 <!---
 wmper/wmper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
