@@ -1,6 +1,6 @@
 Do you know me? I'm a software engineer.
 
-[![wmper's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmper)](https://github.com/anuraghazra/github-readme-stats)
+!['s github stats](https://github-readme-stats.vercel.app/api?username=wmper&show_icons=true&theme=nord)
 
 
 - 👋 Hi, I’m @wmper
