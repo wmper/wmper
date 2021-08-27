@@ -5,6 +5,8 @@ Do you know me? I'm Wmper a software engineer.
 - 🌱 .net core (C#)
 - 🌱 vue & html & css
 - 🌱 currently learning java & springboot
+- 📫 How to reach me:
+  - E-mail: <rj091@qq.com>
 
 <!---
 wmper/wmper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
