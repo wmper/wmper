@@ -2,8 +2,8 @@ Do you know me? I'm Wmper a software engineer.
 
 !['s github stats](https://github-readme-stats.vercel.app/api?username=wmper&show_icons=true&theme=nord)
 
-- 🌱 .net core (C#)
-- 🌱 vue & html & css
+- 🌱 .net6 (C#)
+- 🌱 vue & html & css & javascript
 - 🌱 currently learning java & springboot
 - 📫 How to reach me:
   - E-mail: <rj091@qq.com>
